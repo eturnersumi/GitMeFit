@@ -1,5 +1,7 @@
 # GitMeFit !!!
 
+Deployed Application: https://gentle-falls-95535.herokuapp.com/
+
 ![Workout](https://media.giphy.com/media/5EJHDSPpFhbG0/giphy.gif)
 
 This application tracks workout and fitness data to enable a healthier lifestyle. A consumer will reach their fitness goals quicker when they track their workout progress.
